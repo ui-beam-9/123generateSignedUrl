@@ -27,12 +27,11 @@ node generateSignedUrl.js
 | authKey | 是 | e3f0e2c67 | 123云盘的鉴权密钥 |
 | md5Hash | 是 | /123456789/image/icon/image/icon/123.png-8299472400-316691-123456789-e3f0e2c67 | md5函数，使用32位小写 |
 
-
-![官方参数说明](/image/123-sign.png)
+![官方参数说明](https://mirror.ghproxy.com/https://github.com/ui-beam-9/123generateSignedUrl/image/123-sign.png)
 ### 1.4 最终效果
 * 运行效果
 
-![官方参数说明](/image/123-sign-ok.png)
+![运行效果]([/image/123-sign-ok.png](https://mirror.ghproxy.com/https://github.com/ui-beam-9/123generateSignedUrl/image/123-sign-ok.png)
 
 * 鉴权后URL
 ```
